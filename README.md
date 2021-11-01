@@ -1,6 +1,6 @@
 # Pig-database
 
-Files readme:
+Files in this repository:
 
 Pig Database.xlsx: Contains all data used in analysis
 
